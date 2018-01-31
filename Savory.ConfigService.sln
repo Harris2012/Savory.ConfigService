@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savory.ConfigService", "Savory.ConfigService\Savory.ConfigService.csproj", "{60FFDD85-64BD-4C02-BBFA-6CB1823296CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savory.ConfigService.Test", "Savory.ConfigService.Test\Savory.ConfigService.Test.csproj", "{87FFF4EA-B925-4429-9A3D-415F7BA83AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savory.ConfigService.Biz", "Savory.ConfigService.Biz\Savory.ConfigService.Biz.csproj", "{27DFD000-7489-45EB-903C-7D478D693E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FFDD85-64BD-4C02-BBFA-6CB1823296CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FFDD85-64BD-4C02-BBFA-6CB1823296CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FFDD85-64BD-4C02-BBFA-6CB1823296CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FFDD85-64BD-4C02-BBFA-6CB1823296CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FFF4EA-B925-4429-9A3D-415F7BA83AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FFF4EA-B925-4429-9A3D-415F7BA83AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FFF4EA-B925-4429-9A3D-415F7BA83AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FFF4EA-B925-4429-9A3D-415F7BA83AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DFD000-7489-45EB-903C-7D478D693E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DFD000-7489-45EB-903C-7D478D693E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DFD000-7489-45EB-903C-7D478D693E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DFD000-7489-45EB-903C-7D478D693E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
